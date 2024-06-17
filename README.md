@@ -1,5 +1,6 @@
 # LinkedIn Learning
 
+- [OpenAI API: Multimodal development with GPT-4o](https://github.com/datttrian/open-ai-api-multimodal-development-with-gpt-4o)
 - [Prompt Engineering with LangChain](https://github.com/datttrian/prompt-engineering-with-langchain)
 - [Developing with Nondeterministic APIs](https://github.com/datttrian/developing-with-nondeterministic-apis)
 - [OpenAI API: Building Assistants](https://github.com/datttrian/openai-api-building-assistants)
