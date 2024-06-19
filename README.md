@@ -15,7 +15,7 @@
 - [Learning ECMAScript 6+ (ES6+)](https://github.com/datttrian/learning-ecmascript-6-plus-es6-plus)
 - [Node.js: Testing and Code Quality](https://github.com//datttrian/node-js-testing-and-code-quality-14003857)
 
-## Swift / iOS
+## Swift
 - [Building Your First iOS 17 App](https://github.com/datttrian/building-your-first-ios-17-app)
 - [Programming for Non-Programmers: iOS 16 and Swift 5](https://github.com/datttrian/programming-for-non-programmers-ios-16-and-swift-5)
 - [iOS 16 Development Essential Training](https://github.com/datttrian/ios-16-development-essential-training)
@@ -31,7 +31,7 @@
 - [Python Data Structures and Algorithms](https://github.com//datttrian/python-data-structures-and-algorithms)
 - [Create an Open-Source Project in Python](https://github.com//datttrian/creating-an-open-source-project-in-python-3085072)
 
-## Java / Spring
+## Java
 - [Spring Boot: Test-Driven Development](https://github.com/datttrian/spring-boot-test-driven-development)
 - [Learning Spring 6 with Spring Boot 3](https://github.com/datttrian/learning-spring-6-with-spring-boot-3)
 - [Spring Boot 2.0 Essential Training](https://github.com//datttrian/spring-boot-2-0-essential-training-2)
@@ -45,7 +45,7 @@
 ## SQL
 - [Level Up: Advanced SQL](https://github.com/datttrian/level-up-advanced-sql)
 
-## Git / GitHub
+## GitHub
 - [Practical GitHub Actions](https://github.com/datttrian/practical-github-actions)
 - [Git Workflows](https://github.com/datttrian/git-workflows)
 
